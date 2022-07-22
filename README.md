@@ -2,7 +2,7 @@
 - 👀 I’m interested in a Terraria Calamity playthrough
 - 🌱 I’m currently learning chemical engineering
 - 💞️ I’m looking to collaborate on coding project related to chemical engineering 
-- 📫 How to reach me somewhere on UWaterloo campus
+- 📫 How to reach me: somewhere on UWaterloo campus
 
 <!---
 w25shao/w25shao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
