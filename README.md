@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @w25shao
 - 👀 I’m interested in a Terraria Calamity playthrough
-- 🌱 I’m currently learning g by gc
-- 💞️ I’m looking to collaborate on rho g h
+- 🌱 I’m currently learning chemical engineering
+- 💞️ I’m looking to collaborate on coding project related to chemical engineering 
 - 📫 How to reach me somewhere on UWaterloo campus
 
 <!---
